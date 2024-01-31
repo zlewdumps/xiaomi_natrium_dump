@@ -1,0 +1,14 @@
+# natrium-user 7.0 NRD90M V9.2.1.0.NBGMIEK release-keys
+- manufacturer: xiaomi
+- platform: msm8996
+- codename: natrium
+- flavor: natrium-user
+- release: 7.0
+- id: NRD90M
+- incremental: V9.2.1.0.NBGMIEK
+- tags: release-keys
+- fingerprint: Xiaomi/natrium/natrium:7.0/NRD90M/V9.2.1.0.NBGMIEK:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: natrium-user-7.0-NRD90M-V9.2.1.0.NBGMIEK-release-keys
+- repo: xiaomi_natrium_dump
